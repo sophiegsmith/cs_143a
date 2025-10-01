@@ -16,6 +16,6 @@ During our talk, we found 2 cute little june bugs and got hyperfixated on them f
 ## 3. Our Picture(s)
 Here we have our pictures and our bugs!! 
 
-![Selfie](touchgrasspic1.jpg)
+![Selfie](ssmith/uci/touchgrasspic1.jpg)
 
-![Bugs](touchgrasspic2.jpg)
+![Bugs](ssmith/uci/touchgrasspic2.jpg)
